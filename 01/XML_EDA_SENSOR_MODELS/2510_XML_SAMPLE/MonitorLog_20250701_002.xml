@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonitorLog>
+
+<Sampling TimeStamp="2025-07-01T10:04:42" ID="ACB" Result="6" >
+<Sample Id="FPGA_FUSION" Category="Temperature" Units="C" Value="59.9214" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:04:42" ID="CB" Result="6" >
+<Sample Id="CB_TEMP" Category="Temperature" Units="C" Value="37.4453" />
+<Sample Id="FPGA_TESLA" Category="Temperature" Units="C" Value="50" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:04:42" ID="MotherBoard" Result="6" >
+<Sample Id="+12V" Category="Voltage" Units="V" Value="11.592" />
+<Sample Id="+3.3V" Category="Voltage" Units="V" Value="3.3292" />
+<Sample Id="+3VSB" Category="Voltage" Units="V" Value="3.312" />
+<Sample Id="+5V" Category="Voltage" Units="V" Value="4.85566" />
+<Sample Id="+5VSB" Category="Voltage" Units="V" Value="4.68068" />
+<Sample Id="AVCC" Category="Voltage" Units="V" Value="3.312" />
+<Sample Id="CPU" Category="Voltage" Units="V" Value="1.7138" />
+<Sample Id="CPU_FAN" Category="Rotation" Units="RPM" Value="0" />
+<Sample Id="CPU_TEMP" Category="Temperature" Units="C" Value="30" />
+<Sample Id="SYS1_TEMP" Category="Temperature" Units="C" Value="31" />
+<Sample Id="SYS2_TEMP" Category="Temperature" Units="C" Value="39" />
+<Sample Id="VBAT" Category="Voltage" Units="V" Value="3.024" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:04:42" ID="PREG" Result="6" >
+<Sample Id="PREG_FAN_1" Category="Rotation" Units="RPM" Value="2220" />
+<Sample Id="PREG_FAN_2" Category="Rotation" Units="RPM" Value="2310" />
+<Sample Id="PREG_FAN_3" Category="Rotation" Units="RPM" Value="2220" />
+<Sample Id="PREG_TEMP" Category="Temperature" Units="C" Value="36" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:04:42" ID="D:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="88" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:04:42" ID="E:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="91" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:04:42" ID="J:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="81" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:04:42" ID="K:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="58" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:04:42" ID="R:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="83" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:19:42" ID="ACB" Result="6" >
+<Sample Id="FPGA_FUSION" Category="Temperature" Units="C" Value="59.9214" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:19:42" ID="CB" Result="6" >
+<Sample Id="CB_TEMP" Category="Temperature" Units="C" Value="40.3506" />
+<Sample Id="FPGA_TESLA" Category="Temperature" Units="C" Value="55" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:19:42" ID="MotherBoard" Result="6" >
+<Sample Id="+12V" Category="Voltage" Units="V" Value="11.592" />
+<Sample Id="+3.3V" Category="Voltage" Units="V" Value="3.3292" />
+<Sample Id="+3VSB" Category="Voltage" Units="V" Value="3.312" />
+<Sample Id="+5V" Category="Voltage" Units="V" Value="4.81191" />
+<Sample Id="+5VSB" Category="Voltage" Units="V" Value="4.72443" />
+<Sample Id="AVCC" Category="Voltage" Units="V" Value="3.312" />
+<Sample Id="CPU" Category="Voltage" Units="V" Value="1.7056" />
+<Sample Id="CPU_FAN" Category="Rotation" Units="RPM" Value="0" />
+<Sample Id="CPU_TEMP" Category="Temperature" Units="C" Value="31" />
+<Sample Id="SYS1_TEMP" Category="Temperature" Units="C" Value="33" />
+<Sample Id="SYS2_TEMP" Category="Temperature" Units="C" Value="34" />
+<Sample Id="VBAT" Category="Voltage" Units="V" Value="3.024" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:19:42" ID="PREG" Result="6" >
+<Sample Id="PREG_FAN_1" Category="Rotation" Units="RPM" Value="2250" />
+<Sample Id="PREG_FAN_2" Category="Rotation" Units="RPM" Value="2280" />
+<Sample Id="PREG_FAN_3" Category="Rotation" Units="RPM" Value="2250" />
+<Sample Id="PREG_TEMP" Category="Temperature" Units="C" Value="38" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:19:42" ID="D:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="88" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:19:42" ID="E:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="91" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:19:42" ID="J:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="81" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:19:42" ID="K:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="58" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:19:42" ID="R:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="83" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:34:42" ID="ACB" Result="6" >
+<Sample Id="FPGA_FUSION" Category="Temperature" Units="C" Value="61.0287" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:34:42" ID="CB" Result="6" >
+<Sample Id="CB_TEMP" Category="Temperature" Units="C" Value="40.2972" />
+<Sample Id="FPGA_TESLA" Category="Temperature" Units="C" Value="54" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:34:42" ID="MotherBoard" Result="6" >
+<Sample Id="+12V" Category="Voltage" Units="V" Value="11.592" />
+<Sample Id="+3.3V" Category="Voltage" Units="V" Value="3.3292" />
+<Sample Id="+3VSB" Category="Voltage" Units="V" Value="3.312" />
+<Sample Id="+5V" Category="Voltage" Units="V" Value="4.81191" />
+<Sample Id="+5VSB" Category="Voltage" Units="V" Value="4.68068" />
+<Sample Id="AVCC" Category="Voltage" Units="V" Value="3.312" />
+<Sample Id="CPU" Category="Voltage" Units="V" Value="1.7138" />
+<Sample Id="CPU_FAN" Category="Rotation" Units="RPM" Value="0" />
+<Sample Id="CPU_TEMP" Category="Temperature" Units="C" Value="31" />
+<Sample Id="SYS1_TEMP" Category="Temperature" Units="C" Value="33" />
+<Sample Id="SYS2_TEMP" Category="Temperature" Units="C" Value="39" />
+<Sample Id="VBAT" Category="Voltage" Units="V" Value="3.024" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:34:42" ID="PREG" Result="6" >
+<Sample Id="PREG_FAN_1" Category="Rotation" Units="RPM" Value="2250" />
+<Sample Id="PREG_FAN_2" Category="Rotation" Units="RPM" Value="2310" />
+<Sample Id="PREG_FAN_3" Category="Rotation" Units="RPM" Value="2220" />
+<Sample Id="PREG_TEMP" Category="Temperature" Units="C" Value="38" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:34:42" ID="D:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="88" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:34:42" ID="E:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="91" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:34:42" ID="J:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="81" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:34:42" ID="K:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="58" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:34:42" ID="R:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="82" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:49:42" ID="ACB" Result="6" >
+<Sample Id="FPGA_FUSION" Category="Temperature" Units="C" Value="61.5209" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:49:42" ID="CB" Result="6" >
+<Sample Id="CB_TEMP" Category="Temperature" Units="C" Value="40.8419" />
+<Sample Id="FPGA_TESLA" Category="Temperature" Units="C" Value="55" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:49:42" ID="MotherBoard" Result="6" >
+<Sample Id="+12V" Category="Voltage" Units="V" Value="11.592" />
+<Sample Id="+3.3V" Category="Voltage" Units="V" Value="3.3128" />
+<Sample Id="+3VSB" Category="Voltage" Units="V" Value="3.296" />
+<Sample Id="+5V" Category="Voltage" Units="V" Value="4.81191" />
+<Sample Id="+5VSB" Category="Voltage" Units="V" Value="4.68068" />
+<Sample Id="AVCC" Category="Voltage" Units="V" Value="3.312" />
+<Sample Id="CPU" Category="Voltage" Units="V" Value="1.7138" />
+<Sample Id="CPU_FAN" Category="Rotation" Units="RPM" Value="0" />
+<Sample Id="CPU_TEMP" Category="Temperature" Units="C" Value="32" />
+<Sample Id="SYS1_TEMP" Category="Temperature" Units="C" Value="33" />
+<Sample Id="SYS2_TEMP" Category="Temperature" Units="C" Value="39" />
+<Sample Id="VBAT" Category="Voltage" Units="V" Value="3.008" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:49:42" ID="PREG" Result="6" >
+<Sample Id="PREG_FAN_1" Category="Rotation" Units="RPM" Value="2250" />
+<Sample Id="PREG_FAN_2" Category="Rotation" Units="RPM" Value="2310" />
+<Sample Id="PREG_FAN_3" Category="Rotation" Units="RPM" Value="2250" />
+<Sample Id="PREG_TEMP" Category="Temperature" Units="C" Value="39" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:49:42" ID="D:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="87" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:49:42" ID="E:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="91" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:49:42" ID="J:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="81" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:49:42" ID="K:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="58" />
+</Sampling>
+
+<Sampling TimeStamp="2025-07-01T10:49:42" ID="R:" Result="6" >
+<Sample Id="PercentAvailableFreeSpace" Category="HardDisk" Units="Percent" Value="82" />
+</Sampling>
+</MonitorLog>
