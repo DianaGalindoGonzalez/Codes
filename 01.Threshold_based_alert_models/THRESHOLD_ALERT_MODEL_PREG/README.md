@@ -25,4 +25,8 @@ pip install -r requirements_preg.txt
 
 ## Run
 
-streamlit run AlertExplorePREG_251216.py
+streamlit run 2512_PREG.py
+
+## Snapshots
+
+.png files show the expected output of the code.
