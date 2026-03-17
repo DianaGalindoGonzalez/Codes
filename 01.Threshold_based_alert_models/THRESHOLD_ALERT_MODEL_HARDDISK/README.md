@@ -22,3 +22,7 @@ pip install -r requirements_harddisk.txt
 ## How to run
 streamlit run 2511_AlertExplore_HardDisk.py
 
+## Snapshots
+
+.png files show the expected outputs of the code
+ 
