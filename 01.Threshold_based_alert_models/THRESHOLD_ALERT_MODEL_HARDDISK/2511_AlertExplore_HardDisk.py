@@ -1,6 +1,5 @@
 # AlertExplore_HardDisk2025.py
 # Streamlit app to explore disk space alerts per system.
-# Keeps original structure (two tabs) and logic, with light polish and comments.
 
 from __future__ import annotations
 
@@ -13,12 +12,10 @@ import streamlit as st
 # ---------------------------
 st.set_page_config(layout="centered", page_title="Hard Disk Alerts Explorer")
 
-# ---------------------------
-# Data config (relative path)
-# Place your CSV/TSV file inside the repo folder structure and adjust below.
-# ---------------------------
-DATA_FILE = "C:/Users/320303731/OneDrive - Philips/Documents/Result_45.txt"
-##DATA_FILE = "./data/Result_45.txt"  # was absolute: C:/.../Result_45.txt
+DATA_FILE = "./data/Result_45.txt"  
+# To obtain Result_45.txt:
+# SQL Query = 
+
 DATA_SEP = ","                      # original separator
 
 # ---------------------------
