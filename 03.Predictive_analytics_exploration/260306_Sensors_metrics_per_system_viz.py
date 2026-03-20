@@ -27,12 +27,6 @@ def styled_text(text: str, color: str = "#808080", size: str = "18px"):
         unsafe_allow_html=True
     )
 
-def header(text):
-    st.markdown(
-        f"<h2 style='text-align:center; color:#00126E'>{text}</h2>",
-        unsafe_allow_html=True
-    )
-
 # =========================================================
 # MAPPINGS
 # =========================================================
@@ -343,7 +337,6 @@ def plot_corr(corr: pd.DataFrame):
 # APP
 # =========================================================
 
-
 # Option 1: file uploader
 uploaded = "C:/Users/320303731/OneDrive - Philips/Documents/Models/260305_ALLSENSORS_ACB_WITH_ALERTS.txt"
 ehafile = "C:/Users/320303731/OneDrive - Philips/Documents/Models/260317_EHAEventsSystemsWAlerts2.txt"
@@ -387,7 +380,7 @@ if len(sysids_for_system) > 1:
 # =========================================================
 # TABS
 # =========================================================
-tab1, tab2, tab3, tab4, tab5 = st.tabs(["Overview", "Timeline", "Correlation", "Availability","Univariate graphs for systems with peaks and alerts"])
+tab1, tab2, tab3, tab4= st.tabs(["Overview", "Timeline", "Correlation", "Availability"])
 
 # =========================================================
 # TAB 1 - OVERVIEW
@@ -746,7 +739,3 @@ with tab4:
 
     else:
         st.info("System not selected.")
-
-    with tab5:
-
-        uploaded_file = "C:/Users/320303731/Downloads/['795231--US822B2381']_Temperature.csv"
