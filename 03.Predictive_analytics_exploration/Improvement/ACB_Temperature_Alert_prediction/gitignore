@@ -1,0 +1,17 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Streamlit cache
+.streamlit/
+*/.streamlit/
+
+# Data
+*.csv
+*.txt
+*.parquet
+*.xlsx

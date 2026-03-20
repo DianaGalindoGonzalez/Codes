@@ -1,0 +1,16 @@
+# ACB Temperature – 7‑Day Alert EDA & Baseline Model
+
+Streamlit app for exploratory analysis and a baseline ML model to predict whether a system will
+raise one or more high ACB temperature alerts within the next 7 days.
+
+## Quickstart
+
+```bash
+# 1) Install deps (ideally in a virtualenv)
+pip install -r requirements.txt
+
+# 2) Provide the data file path via env var or place the CSV/TXT in repo root as 260204_ACB_T.txt
+export ACB_DATA_PATH=/path/to/260204_ACB_T.txt
+
+# 3) Run
+streamlit run app.py
